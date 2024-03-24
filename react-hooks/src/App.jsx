@@ -1,3 +1,4 @@
+import ExercicioContext from './components/ExercicioContext';
 import ExercicioState from './components/ExercicioState';
 import Produto from './components/Produto';
 
